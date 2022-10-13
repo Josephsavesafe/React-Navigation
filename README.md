@@ -1,6 +1,6 @@
 React React-Navigation
 
-https://react-navigation-tanawut.netlify.app/contact
+https://react-navigation-tanawut.netlify.app
 
 ## Other React app
 
